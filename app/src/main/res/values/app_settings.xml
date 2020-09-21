@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="location_permission_denied">"Вам отказано в использовании API</string>
+    <string name="arcgis_license_key">YOUR_LICENSE_KEY</string>
+    <string name="redirect_url">YOUR_URL_APP</string>
+    <string name="client_id">CLIENT_ID</string>
+    <!--Ссылка на службу построения маршрута-->
+    <string name="routing_url">https://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World</string>
+    <!--Ссылка на службу поиска координат адреса-->
+    <string name="geocode_url">https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer</string>
+</resources>
